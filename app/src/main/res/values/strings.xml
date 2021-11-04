@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson6</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="enter">Enter</string>
+    <string name="vhod">Вход успешно выполнен!</string>
+</resources>
